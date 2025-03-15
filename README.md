@@ -63,8 +63,7 @@ This project focuses on **web scraping, natural language processing (NLP), and t
 - Develop a web-based interface for real-time post categorization.
 
 ## Dashboard
-![image](https://github.com/user-attachments/assets/27be11c2-0476-4d9e-a98c-f7545d199bc6)
-
+![image](https://github.com/user-attachments/assets/7741e094-b111-40c2-923d-5ff076ccf012)
 
 ## Conclusion
 This project demonstrates an end-to-end pipeline for extracting, processing, and categorizing textual data. By combining **rule-based heuristics** and **machine learning models**, it provides a structured approach to analyzing online discussions, offering valuable insights into workplace and personal experiences.
